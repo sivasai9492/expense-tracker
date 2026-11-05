@@ -282,3 +282,53 @@ The application follows an organized Flutter project structure:
 ### 6. Contribution Summary
 
 This contribution focuses on making SpendTrack easier to understand, install, and run by providing clear project setup instructions and organized technical documentation.
+
+
+
+## Application Features and User Guide
+
+SpendTrack provides a simple interface to manage personal income, expenses, and budgets. This guide explains the main application features and how users can access them.
+
+### 1. Dashboard
+
+- View the current available balance.
+- Monitor total income and expenses.
+- Review recent financial transactions.
+- Access important financial information from one screen.
+
+### 2. Transaction Management
+
+- Add new income and expense records.
+- Enter transaction amount, category, date, and notes.
+- Edit existing transaction details.
+- Delete unwanted transactions.
+- Search and filter transaction records.
+
+### 3. Financial Insights
+
+- Review income and expense summaries.
+- Monitor spending trends.
+- View category-wise expense breakdowns.
+- Analyze financial activity over selected periods.
+
+### 4. Budget Management
+
+- Create budgets for spending categories.
+- Set spending limits.
+- Monitor budget usage and remaining amounts.
+- Review budget progress.
+
+### 5. Navigation and Usability
+
+- Use Home to access the dashboard.
+- Use History to review transactions.
+- Use Insights to analyze financial activity.
+- Use Profile to access profile-related options.
+
+### 6. User Guide Contribution
+
+- Documented the major application features.
+- Explained the purpose of each main screen.
+- Prepared basic instructions for navigating the application.
+- Described transaction and budget management workflows.
+- Improved the documentation for new users.
