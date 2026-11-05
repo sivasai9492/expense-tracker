@@ -170,7 +170,7 @@ The application provides visual insights into spending through:
 
 ### 1. S. Siva Sai
 **Role: Project Owner & Developer**
-
+- Lead development and integration
 - Project planning and development.
 - Flutter application development.
 - User interface design.
