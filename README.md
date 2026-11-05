@@ -169,29 +169,40 @@ The application provides visual insights into spending through:
 ## 👥 Team Members & Contributions
 
 ### 1. S. Siva Sai
-**Role: Project Owner & Developer**
-- Lead development and integration
-- Project planning and development.
+**Role: Project Owner & Lead Developer**
+
+- Project planning and architecture.
 - Flutter application development.
-- User interface design.
 - Provider state management.
-- Local data storage implementation.
-- Expense management and budget tracking features.
-- Expense analytics and chart integration.
-- Bug fixing and application testing.
-- GitHub repository creation and management.
+- Expense management functionality.
+- Monthly budget implementation.
+- Local storage integration.
+- GitHub repository management.
+- Final integration and bug fixing.
 
 ### 2. T. Naresh
-**Role: Testing & Documentation Support**
+**Role: Testing & Feature Development**
 
-- Application testing and verification.
-- Identifying and reporting bugs.
-- Preparing project documentation.
-- README preparation.
-- Collecting application screenshots.
-- Preparing presentation materials.
-- Supporting the project demonstration.
+- Testing Add, Edit and Delete Expense functionality.
+- Identifying and fixing application bugs.
+- Testing monthly budget calculations.
+- Verifying local data persistence.
+- Developing and improving application functionality.
+- Preparing test cases and documentation.
 
+### 3. V. Prasanth
+**Role: UI Development & Analytics**
+
+- Designing and improving application screens.
+- Working on expense summary functionality.
+- Supporting category-wise expense analysis.
+- Improving charts and data visualization.
+- Testing user interface responsiveness.
+- Contributing to application development and debugging.
+
+### Team Collaboration
+
+All three team members contribute to project development, testing, debugging, documentation, and final project demonstration.
 ## 🔮 Future Enhancements
 
 - Dark mode support.
