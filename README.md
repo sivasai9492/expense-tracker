@@ -206,4 +206,4 @@ This project is developed for educational and academic purposes.
 
 ---
 
-**Developed using Flutter 💙**
+**Developed using Flutter **
